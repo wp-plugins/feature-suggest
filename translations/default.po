@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Feature Suggest Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-08-31 15:10+0200\n"
+"PO-Revision-Date: 2010-08-31 15:10+0200\n"
+"Last-Translator: Rares Cosma <hello@rarescosma.com>\n"
+"Language-Team: Shaw Republic\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SearchPath-0: d:\\_po\n"
+
+#: d:\_po/cpt.php:9
+msgid "Suggestions"
+msgstr ""
+
+#: d:\_po/cpt.php:10
+msgid "Suggestion"
+msgstr ""
+
+#: d:\_po/cpt.php:11
+msgid "Add New"
+msgstr ""
+
+#: d:\_po/cpt.php:12
+msgid "Add New Suggestion"
+msgstr ""
+
+#: d:\_po/cpt.php:13
+msgid "Edit"
+msgstr ""
+
+#: d:\_po/cpt.php:14
+msgid "Edit Suggestion"
+msgstr ""
+
+#: d:\_po/cpt.php:15
+msgid "New Suggestion"
+msgstr ""
+
+#: d:\_po/cpt.php:16
+#: d:\_po/cpt.php:17
+msgid "View Suggestion"
+msgstr ""
+
+#: d:\_po/cpt.php:18
+msgid "Search Suggestions"
+msgstr ""
+
+#: d:\_po/cpt.php:19
+msgid "No Suggestions found"
+msgstr ""
+
+#: d:\_po/cpt.php:20
+msgid "No Suggestions found in Trash"
+msgstr ""
+
+#: d:\_po/cpt.php:21
+msgid "Parent Suggestion"
+msgstr ""
+
+#: d:\_po/feature-suggest.php:10
+msgid "Can't load this file directly"
+msgstr ""
+
+#: d:\_po/feature-suggest.php:101
+msgid "Suggestion title"
+msgstr ""
+
+#: d:\_po/feature-suggest.php:106
+msgid "Please describe your suggestion some..."
+msgstr ""
+
