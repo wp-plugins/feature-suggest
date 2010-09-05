@@ -11,7 +11,7 @@ Engage your site's community by allowing your site's visitors to suggest and vot
 
 Engage your site's community by allowing your site's visitors to suggest and vote on new features from a page or post of your choice.
 
-Read more or explore the demo on the [Feature Sggest plugin][1] page.
+Read more or explore the demo on the [Feature Suggest plugin][1] page.
 
  [1]: http://sailbirdmedia.com/feature-suggest-plugin
 == Installation ==
